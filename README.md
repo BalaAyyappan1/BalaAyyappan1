@@ -20,6 +20,12 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BalaAyyappan1&theme=github_dark" alt="Bala's GitHub Stats"/>
 </div>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/BalaAyyappan1/BalaAyyappan1/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
+
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BalaAyyappan1&commits_year=2025)

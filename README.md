@@ -15,18 +15,11 @@
 
 ### 🛠️ GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BalaAyyappan1&theme=tokyonight)
-![GitHub Contributions](https://github.com/BalaAyyappan1.png?tab=overview&from=2025-01-01&to=2025-12-31)
 
-![Bala's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BalaAyyappan1&theme=tokyonight&year=2025)
+<div align="start">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BalaAyyappan1&theme=github_dark" alt="Bala's GitHub Stats"/>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BalaAyyappan1&show_icons=true&theme=tokyonight&count_private=true)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BalaAyyappan1&show_icons=true&theme=tokyonight&count_private=true)
-
-![Bala's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BalaAyyappan1&theme=tokyonight&year=2025)
-![Bala's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BalaAyyappan1&theme=tokyonight&year=2024)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BalaAyyappan1&commits_year=2025)

@@ -29,6 +29,9 @@
 ![Bala's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BalaAyyappan1&theme=tokyonight&year=2024)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BalaAyyappan1&commits_year=2025)
+
+
 
 
 

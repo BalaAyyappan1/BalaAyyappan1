@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/BalaAyyappan1/BalaAyyappan1/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/BalaAyyappan1/BalaAyyappan1/main/github-user-contribution.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
 

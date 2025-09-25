@@ -11,18 +11,12 @@
 🌱 **Currently Learning:** Advanced Three.js & backend architecture  
 🤝 **Open to:** Collaborating on open-source, SaaS projects, and cool UI/UX experiments  
 
-📫 **Let's Connect:**  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
-
----
 
 ### 🛠️ GitHub Stats
-![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=BalaAyyappn1&show_icons=true&theme=radical)
 
 ### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BalaAyyappan1layout=compact&theme=radical)
 
 ---
 

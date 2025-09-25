@@ -13,7 +13,9 @@
 
 
 ### 🛠️ GitHub Stats
-![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=BalaAyyappan1&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BalaAyyappan1&theme=tokyonight)
+
 
 
 

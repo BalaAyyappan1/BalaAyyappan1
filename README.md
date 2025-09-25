@@ -15,6 +15,8 @@
 ### 🛠️ GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BalaAyyappan1&theme=tokyonight)
+![GitHub Contributions](https://github.com/BalaAyyappan1.png?tab=overview&from=2025-01-01&to=2025-12-31)
+
 
 
 

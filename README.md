@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Bala Ayyappan
 
 🚀 **Full-Stack Developer** | Passionate about building modern, interactive, and scalable web applications.  
@@ -20,6 +21,13 @@
 ![Bala's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BalaAyyappan1&theme=tokyonight&year=2025)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BalaAyyappan1&show_icons=true&theme=tokyonight&count_private=true)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BalaAyyappan1&show_icons=true&theme=tokyonight&count_private=true)
+
+![Bala's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BalaAyyappan1&theme=tokyonight&year=2025)
+![Bala's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BalaAyyappan1&theme=tokyonight&year=2024)
+
 
 
 

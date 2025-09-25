@@ -13,13 +13,8 @@
 
 
 ### 🛠️ GitHub Stats
-![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=BalaAyyappn1&show_icons=true&theme=radical)
+![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=BalaAyyappan1&show_icons=true&theme=tokyonight)
 
-![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=BalaAyyappan1&show_icons=true&theme=radical)
-
-### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BalaAyyappan1layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BalaAyyappan1&layout=compact&theme=radical)
 
 
 ---

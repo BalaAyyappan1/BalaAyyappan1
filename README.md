@@ -39,7 +39,7 @@
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BalaAyyappan1&theme=github_dark" alt="Profile Stats"/>
-  <img src="https://raw.githubusercontent.com/BalaAyyappan1/balaayyappan/main/output/github-user-contribution.svg" alt="GitHub Contributions" height="150px"/>
+  <!-- <img src="https://raw.githubusercontent.com/BalaAyyappan1/balaayyappan/main/output/github-user-contribution.svg" alt="GitHub Contributions" height="150px"/> -->
 </p>
 
 ---

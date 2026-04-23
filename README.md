@@ -68,17 +68,11 @@ const BALA_AYYAPPAN = {
 
 
 ## 📊 GitHub Stats
-<br/><br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BalaAyyappan1&theme=github_dark" />
 
-
-<br/><br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=BalaAyyappan1&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
-<br/><br/>
 
 </div>
 

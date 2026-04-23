@@ -104,10 +104,8 @@ const BALA_AYYAPPAN = {
 
 <br/>
 
-[![Visit Portfolio](https://img.shields.io/badge/→_Visit_Portfolio-7F77DD?style=for-the-badge&logo=firefox&logoColor=white)](https://balaayyappan.com)
+[![→ Portfolio](https://img.shields.io/badge/→_Portfolio-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117)](https://balaayyappan.com)
+[![→ LinkedIn](https://img.shields.io/badge/→_LinkedIn-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117)](https://www.linkedin.com/in/balaayyappan)
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=80&section=footer" />
 
 </div>

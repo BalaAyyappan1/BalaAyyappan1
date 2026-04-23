@@ -22,7 +22,7 @@ const BALA_AYYAPPAN = {
   focus    : ["SaaS Products", "AI-Powered Apps", "3D Web Experiences"],
   building : "products that ship, scale, and look stunning",
   shipped  : "20+ projects delivered",
-  mantra   : "Code. Automate. Animate. Deploy.",
+  mantra: "Build. Ship. Improve.",
 };
 ```
 

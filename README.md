@@ -41,17 +41,14 @@ const BALA_AYYAPPAN = {
 
 ## 🚀 Tech Stack
 
-### 🖥️ Frontend & Logic
+### 🖥️ Frontend
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,angular,astro,ts,js,tailwind,html,css&theme=dark" />
-
-### 🎨 Creative & 3D
-
-<img src="https://skillicons.dev/icons?i=threejs&theme=dark" height="50"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,astro,ts,js,tailwind,html,css,threejs&theme=dark" />
 
 ### ⚙️ Backend & Architecture
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,python,nestjs,nuxtjs&theme=dark" />
+
 
 ### 🗄️ Database & ORM
 

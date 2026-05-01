@@ -56,7 +56,6 @@ const BALA_AYYAPPAN = {
 
 ### 🤖 AI & Cloud
 
-
 <img src="https://skillicons.dev/icons?i=aws,tensorflow,pytorch&theme=dark" />
 
 <p style="color:#C9D1D9; margin-top:8px;">

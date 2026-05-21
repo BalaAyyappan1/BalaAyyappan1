@@ -19,7 +19,7 @@
 ```ts
 const BALA_AYYAPPAN = {
   role     : "Full-Stack Developer",
-  focus    : ["SaaS Products", "AI-Powered Apps", "3D Web Experiences"],
+  focus    : ["SaaS Products", "AI-Powered Apps", "Mobile Applications", "3D Web Experiences"],
   building : "products that ship, scale, and look stunning",
   shipped  : "20+ projects delivered",
   mantra   : "Build. Ship. Improve.",
@@ -43,7 +43,7 @@ const BALA_AYYAPPAN = {
 
 ### 🖥️ Frontend
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,angular,astro,ts,js,tailwind,html,css,threejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,flutter,react,angular,astro,ts,js,tailwind,html,css,threejs&theme=dark" />
 
 ### ⚙️ Backend & Architecture
 
@@ -56,11 +56,9 @@ const BALA_AYYAPPAN = {
 
 ### 🤖 AI & Cloud
 
-<img src="https://skillicons.dev/icons?i=aws,tensorflow,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,tensorflow,pytorch,claude&theme=dark" />
 
-<p style="color:#C9D1D9; margin-top:8px;">
-  OpenAI · LangChain · Ollama · Retrieval-Augmented Generation (RAG)
-</p>
+
 
 
 ## 📊 GitHub Stats

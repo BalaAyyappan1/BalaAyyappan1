@@ -34,9 +34,9 @@ const BALA_AYYAPPAN = {
 |---|---|
 | 🤖 **AI-Powered Apps** | LLM integrations, AI workflows, smart automation, chatbots |
 | 📦 **SaaS Products** | Auth, billing, dashboards — end-to-end from idea to deploy |
+| 📱 **Mobile Applications** | Cross-platform apps, native performance, intuitive mobile UX |
 | 🌐 **3D & Interactive UI** | Three.js scenes, GSAP animations, immersive web experiences |
 | ⚡ **Full-Stack Systems** | REST APIs, databases, cloud deployments, scalable backends |
-
 ---
 
 ## 🚀 Tech Stack

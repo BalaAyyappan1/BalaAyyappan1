@@ -19,7 +19,7 @@
 ```ts
 const BALA_AYYAPPAN = {
   role     : "Full-Stack Developer",
-  focus    : ["SaaS Products", "AI-Powered Apps", "Mobile Applications", "3D Web Experiences"],
+  focus    : ["SaaS Products", "AI-Powered Apps", "Mobile Applications", "Desktop Applications", "3D Web Experiences"],
   building : "products that ship, scale, and look stunning",
   shipped  : "20+ projects delivered",
   mantra   : "Build. Ship. Improve.",

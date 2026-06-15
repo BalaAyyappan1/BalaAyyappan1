@@ -45,6 +45,7 @@ const BALA_AYYAPPAN = {
 
 <img src="https://skillicons.dev/icons?i=nextjs,flutter,react,angular,astro,ts,js,tailwind,html,css,threejs&theme=dark" />
 
+
 ### ⚙️ Backend & Architecture
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,python,nestjs,nuxtjs&theme=dark" />
@@ -58,6 +59,9 @@ const BALA_AYYAPPAN = {
 
 <img src="https://skillicons.dev/icons?i=aws,tensorflow,pytorch,claude&theme=dark" />
 
+### 🎨 Design & Prototyping
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 
 
 ## 📊 GitHub Stats

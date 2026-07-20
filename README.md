@@ -70,8 +70,7 @@ const BALA_AYYAPPAN = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BalaAyyappan1&theme=github_dark" />
 
 
-[![GitHub Streak](https://streak-stats.vercel.app?user=BalaAyyappan1&theme=github-dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.vercel.app?user=BalaAyyappan1&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ---

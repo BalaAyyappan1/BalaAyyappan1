@@ -39,7 +39,6 @@ const BALA_AYYAPPAN = {
 | ⚡ **Full-Stack Systems** | REST APIs, databases, cloud deployments, scalable backends |
 ---
 
----
 ## 🧾POS — Multi-Tenant SaaS Platform
 A complete point-of-sale ecosystem built to serve multiple businesses from one platform:
 - 🖥️ **POS Desktop App** — billing, order management, real-time sync (Flutter, Windows/macOS/Linux)

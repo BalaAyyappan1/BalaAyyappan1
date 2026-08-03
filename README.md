@@ -78,7 +78,7 @@ A complete point-of-sale ecosystem built to serve multiple businesses from one p
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BalaAyyappan1&theme=github_dark" />
 
 
-[![GitHub Streak](https://streak-stats.vercel.app?user=BalaAyyappan1&theme=github-dark&hide_border=true&background=00000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.app?user=BalaAyyappan1&theme=github-dark&hide_border=false)](https://git.io/streak-stats)
 </div>
 
 ---

@@ -76,7 +76,7 @@ A complete point-of-sale ecosystem built to serve multiple businesses from one p
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.vercel.app?user=BalaAyyappan1&theme=github-dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.app?user=BalaAyyappan1&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ---
